@@ -1,6 +1,4 @@
-Perfect. Here is the **corrected full README**, using only **Player A, Player B, and Player D** for your actual scenario.
 
-````markdown
 # ⚽ Offside Detector — Position ≠ Offense
 
 An interactive football offside simulation designed to demonstrate the distinction between **offside position** and an actual **offside offense** under Law 11 of the IFAB Laws of the Game.
